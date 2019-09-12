@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дарья Квочко](https://up.htmlacademy.ru/javascript/18/user/1174783).
-* Наставник: `Неизвестно`.
+* Наставник: `Антон Попов`.
 
 ---
 
