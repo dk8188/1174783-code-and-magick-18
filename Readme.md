@@ -1,11 +1,11 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дарья Квочко](https://up.htmlacademy.ru/javascript/18/user/1174783).
-* Наставник: `Антон Попов`.
+* Наставник: `Антgон Попов`.
 
 ---
 
-_Не удаляйте и не обраgit щайте внимание на файлы:_<br>
+_Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `package-lock.json`, `package.json`._
 
 ---
