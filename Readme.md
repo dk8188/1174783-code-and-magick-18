@@ -9,7 +9,6 @@ _Не удаляйте и не обращайте внимание на файл
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `package-lock.json`, `package.json`._
 
 ---
-
 ### Памятка
 
 #### 1. Зарегистрируйтесь на Гитхабе
